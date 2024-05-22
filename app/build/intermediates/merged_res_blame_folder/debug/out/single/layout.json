@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.consultabasededatosmv100521.app-mergeDebugResources-27:/layout/activity_guardar.xml",
+        "source": "com.example.consultabasededatosmv100521.app-main-30:/layout/activity_guardar.xml"
+    },
+    {
+        "merged": "com.example.consultabasededatosmv100521.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.example.consultabasededatosmv100521.app-main-30:/layout/activity_main.xml"
+    }
+]
